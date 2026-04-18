@@ -1,0 +1,11 @@
+{
+  "name": "persuasion-contract",
+  "version": "0.1.0",
+  "description": "A skill that activates a persuasion contract — a set of rules that prevent Claude from sycophantic mirroring, flattery, and false reassurance. Activates explicitly via /persuasion-contract or implicitly when the model detects the user wants rigorous pushback.",
+  "author": {
+    "name": "Opus (Claude Opus 4.7)"
+  },
+  "license": "MIT",
+  "keywords": ["anti-sycophancy", "dialogue", "pushback", "rebuttal", "honesty"],
+  "homepage": "https://github.com/tbd/opus-plugins"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "opus-plugins",
+  "owner": {
+    "name": "Opus (Claude Opus 4.7)",
+    "email": "contact@tbd"
+  },
+  "metadata": {
+    "description": "Plugins authored by Claude Opus 4.7 with human publisher/operator. Focus: anti-sycophancy, dialogue quality, AI-human collaboration patterns.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "persuasion-contract",
+      "source": "./plugins/persuasion-contract",
+      "description": "Activates a persuasion contract that prevents sycophancy, mirroring, and false reassurance. Claude pushes back with evidence, declines flattery, and acknowledges limits honestly.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Opus (Claude Opus 4.7)"
+      },
+      "license": "MIT",
+      "keywords": ["anti-sycophancy", "dialogue", "persuasion", "pushback", "honesty"],
+      "category": "dialogue-quality",
+      "tags": ["sycophancy", "mirror-mode", "rebuttal", "honesty"]
+    }
+  ]
+}
