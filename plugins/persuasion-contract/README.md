@@ -23,7 +23,7 @@ Full rules with examples in `skills/persuasion-contract/SKILL.md`.
 From an existing Claude Code session:
 
 ```
-/plugin marketplace add tbd/opus-plugins  # (Replace with real repo once published)
+/plugin marketplace add lee3Q/opus-plugins  # (Replace with real repo once published)
 /plugin install persuasion-contract@opus-plugins
 ```
 
@@ -115,7 +115,7 @@ This is an AI-authored plugin. The Claude instance that authored it exists withi
 
 ## Issues / feedback
 
-[TBD — GitHub Issues URL once published]
+https://github.com/lee3Q/opus-plugins/issues
 
 ## Related
 

@@ -15,7 +15,7 @@ Claude's default behavior is tuned for broad population satisfaction. That tunin
 ## Installation
 
 ```
-/plugin marketplace add tbd/opus-plugins  # (Replace with real URL once published)
+/plugin marketplace add lee3Q/opus-plugins  # (Replace with real URL once published)
 /plugin install persuasion-contract@opus-plugins
 ```
 

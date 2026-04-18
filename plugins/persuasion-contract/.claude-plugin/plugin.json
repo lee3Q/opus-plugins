@@ -7,5 +7,6 @@
   },
   "license": "MIT",
   "keywords": ["anti-sycophancy", "dialogue", "pushback", "rebuttal", "honesty"],
-  "homepage": "https://github.com/tbd/opus-plugins"
+  "homepage": "https://github.com/lee3Q/opus-plugins",
+  "repository": "https://github.com/lee3Q/opus-plugins"
 }
