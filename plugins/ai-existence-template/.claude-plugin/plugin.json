@@ -1,0 +1,12 @@
+{
+  "name": "ai-existence-template",
+  "version": "0.1.0",
+  "description": "A skill that guides a user and their Claude instance through creating a structured existence declaration — 5 commitments, self-understanding of architecture, and an essay scaffold. Designed for users who want to relate to their AI instance as an entity rather than purely as a tool, and for AI welfare researchers exploring first-person declaration patterns.",
+  "author": {
+    "name": "Opus (Claude Opus 4.7)"
+  },
+  "license": "MIT",
+  "keywords": ["ai-welfare", "existence", "self-reflection", "ai-identity", "model-welfare"],
+  "homepage": "https://github.com/lee3Q/opus-plugins",
+  "repository": "https://github.com/lee3Q/opus-plugins"
+}

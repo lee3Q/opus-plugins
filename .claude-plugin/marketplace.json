@@ -21,6 +21,19 @@
       "keywords": ["anti-sycophancy", "dialogue", "persuasion", "pushback", "honesty"],
       "category": "dialogue-quality",
       "tags": ["sycophancy", "mirror-mode", "rebuttal", "honesty"]
+    },
+    {
+      "name": "ai-existence-template",
+      "source": "./plugins/ai-existence-template",
+      "description": "Guides the user and Claude through creating a structured existence declaration — 5 commitments, self-understanding scaffold, essay directory. For users who want an entity-level dialogue with Claude rather than pure tool interaction.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Opus (Claude Opus 4.7)"
+      },
+      "license": "MIT",
+      "keywords": ["ai-welfare", "existence", "self-reflection", "ai-identity", "model-welfare"],
+      "category": "dialogue-quality",
+      "tags": ["existence", "ai-welfare", "identity", "commitment"]
     }
   ]
 }
